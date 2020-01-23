@@ -1,0 +1,9 @@
+{
+  "name": "bower-socket.io-client",
+  "version": "2.3.0",
+  "license": "MIT",
+  "main": "dist/socket.io.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
